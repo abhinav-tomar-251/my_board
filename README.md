@@ -1,4 +1,4 @@
-# Build a Real-Time Miro Clone With Nextjs, React, Tailwind CSS Name My_Board.
+# Build a Real-Time Miro Clone With Nextjs, React, Tailwind CSS Named My_Board.
 
 
 This is a repository for a Real-Time Miro Clone Named My_Board built With Nextjs, React, Tailwind CSS.
