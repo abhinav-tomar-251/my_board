@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 # Build a Real-Time Miro Clone With Nextjs, React, Tailwind CSS Name BoardBuddy.
 =======
-# Build a Real-Time Miro Clone With Nextjs, React, Tailwind CSS Named My_Board.
->>>>>>> a66914a981ac567a34eb7e61ef3e8fbf14eb4839
+
 
 
 This is a repository for a Real-Time Miro Clone Named BoardBuddy built With Nextjs, React, Tailwind CSS.
